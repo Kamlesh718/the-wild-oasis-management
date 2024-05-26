@@ -1,5 +1,9 @@
 # The Wild Oasis
 
+# Hotel Management Website
+
+This Hotel Management Website is my first project that I created while learning React. It's designed for internal use by employees to manage bookings, cabins, prices. It provides a user-friendly interface built with React, React Query, and Styled Components, with Supabase serving as the backend.
+
 ![login](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/87f3c08d-8d60-4b1e-96e5-105a0e255798)
 
 ![dashboard1](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/39bae7d1-8307-4462-aea2-3a08253879c7)
@@ -25,9 +29,7 @@
 
 
 
-# Hotel Management Website
 
-This Hotel Management Website is my first project that I created while learning React. It's designed for internal use by employees to manage bookings, cabins, prices. It provides a user-friendly interface built with React, React Query, and Styled Components, with Supabase serving as the backend.
 
 ## Features
 
