@@ -20,6 +20,9 @@
 
 ![update-your-account](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/e7b0afaf-c0df-4be4-a870-6300f2079362)
 
+![dark-mode](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/54350cd6-3c59-48be-aa36-b944c7709b5b)
+
+
 
 
 # Hotel Management Website
