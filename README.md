@@ -1,5 +1,25 @@
 # The Wild Oasis
 
+![login](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/87f3c08d-8d60-4b1e-96e5-105a0e255798)
+
+![dashboard1](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/39bae7d1-8307-4462-aea2-3a08253879c7)
+
+![dashboard2](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/779a0bcf-c8b5-4f15-8706-6604a143fcb2)
+
+![bookings](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/452ac9d5-b161-42a6-ba6c-73b29204a5b6)
+
+![checkin](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/8c35c274-ed42-4325-8ae2-b50accb20d10)
+
+![cabins](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/66da2bd1-73d1-42d5-990d-7df97455bf5d)
+
+![edit-cabin](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/cf322020-f13d-4e13-a1f2-29a91ca7c156)
+
+![add-new-cabin](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/ac896163-3823-495c-bcc8-7e5f7083801c)
+
+![update-hotel-settings](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/200eb480-1ef7-475a-826f-08c5c58b6efd)
+
+![update-your-account](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/e36723e3-b506-4bc9-a23c-409560c38744)
+
 # Hotel Management Website
 
 This Hotel Management Website is designed for internal use by employees to manage bookings, cabins, prices. It provides a user-friendly interface built with React, React Query, and Styled Components, with Supabase serving as the backend.
