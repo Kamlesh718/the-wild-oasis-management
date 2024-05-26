@@ -24,7 +24,7 @@
 
 # Hotel Management Website
 
-This Hotel Management Website is designed for internal use by employees to manage bookings, cabins, prices. It provides a user-friendly interface built with React, React Query, and Styled Components, with Supabase serving as the backend.
+This Hotel Management Website is my first project that I created while learning React. It's designed for internal use by employees to manage bookings, cabins, prices. It provides a user-friendly interface built with React, React Query, and Styled Components, with Supabase serving as the backend.
 
 ## Features
 
