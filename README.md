@@ -3,9 +3,6 @@
 
 This Website is my first project that I created while learning React. It's designed for internal use by employees to manage bookings, cabins, prices. It provides a user-friendly interface built with React, React Query, and Styled Components, with Supabase serving as the backend.
 
-## About
-
-This project was conceived during the process of learning Reactjs from a comprehensive course. The application showcases the utilization of React capabilities.
 
 **Login page:**
 ![login](https://github.com/Kamlesh718/the-wild-oasis-management/assets/91180891/87f3c08d-8d60-4b1e-96e5-105a0e255798)
